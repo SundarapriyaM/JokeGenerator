@@ -1,0 +1,26 @@
+html{
+    height: 100%;
+    background-color: rgb(18, 24, 42);
+    color: white;
+    font-family: 'Helvetica', sans-serif;
+  }
+  
+  body{
+    height: 100%;
+  }
+  
+  
+  
+  h1{
+    height: 2em;
+  }
+  
+  
+  
+  #button1{
+    background-color: blue;
+    color: white;
+
+  }
+  
+  
